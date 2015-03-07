@@ -1,0 +1,7 @@
+Makefile
+CMakeCache.txt
+CMakeFiles
+t???.dat.out
+*.swp
+*.swo
+
