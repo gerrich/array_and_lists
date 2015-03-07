@@ -4,4 +4,5 @@ CMakeFiles
 t???.dat.out
 *.swp
 *.swo
+cmake_install.cmake
 
